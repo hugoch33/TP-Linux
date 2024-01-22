@@ -4,12 +4,10 @@
 
 ### 2. Fichier
 
-🌞 **Supprimer des fichiers**
-
+🌞 **Supprimer des fichiers**   
 
     [hugo@localhost ~]$ rm /boot/vmlinuz-5.14.0-284.11.1.el9_2.x86_64
     [hugo@localhost ~]$ rm /boot/vmlinuz-0-rescue-b01d02e8bcee45c897afaf016cbfc3c5
-
 
 ### 3. Utilisateurs
 
