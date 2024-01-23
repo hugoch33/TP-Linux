@@ -225,6 +225,17 @@ access_log  /var/log/nginx/access.log  main;
 
 🌞 Récupérer le fichier meow
 
-
+```
+    [hugo@localhost ~]$ wget https://gitlab.com/it4lik/b1-linux-2023/-/raw/master/tp/2/meow?inline=false
+```
 
 🌞 Trouver le dossier dawa/
+
+```
+[hugo@localhost /]$ file meow
+meow: Zip archive data, at least v2.0 to extract
+[hugo@localhost /]$ sudo mv meow meow.zip
+[hugo@localhost /]$ unzip meow.zip
+[hugo@localhost /]$ sudo mv meow meow.bz2
+[hugo@localhost /]$ bzip2 -d meow.bz2
+```
