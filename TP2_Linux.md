@@ -174,5 +174,57 @@ rendu
 /usr/bin/ssh
 [hugo@localhost /]$ which ping
 /usr/bin/ping
-[hugo@localhost /]$
 ```
+
+
+[hugo@localhost ~]$ sudo dnf install git-all
+
+## II. Paquets
+
+```
+[hugo@localhost ~]$ sudo dnf install git-all
+  perl-overloading-0.02-480.el9.noarch                      perl-parent-1:0.238-460.el9.noarch
+  perl-podlators-1:4.14-460.el9.noarch                      perl-subs-1.03-480.el9.noarch
+  perl-vars-1.05-480.el9.noarch                             rocky-logos-httpd-90.14-2.el9.noarch
+  subversion-1.14.1-5.el9_0.x86_64                          subversion-libs-1.14.1-5.el9_0.x86_64
+  subversion-perl-1.14.1-5.el9_0.x86_64                     tcl-1:8.6.10-7.el9.x86_64
+  tk-1:8.6.10-9.el9.x86_64                                  utf8proc-2.6.1-4.el9.x86_64
+  xml-common-0.6.3-58.el9.noarch
+
+Complete!
+```
+
+🌞 Utiliser une commande pour lancer Firefox
+
+```
+[hugo@localhost ~]$ which git
+/usr/bin/git
+```
+
+🌞 Installer le paquet nginx
+
+```
+[hugo@localhost ~]$ sudo dnf install git-all
+```
+
+🌞 Déterminer
+
+```
+[hugo@localhost /]$ sudo find / -name "nginx*"
+/etc/nginx/nginx.conf
+
+[hugo@localhost /]$ cat /etc/nginx/nginx.conf
+access_log  /var/log/nginx/access.log  main;
+```
+
+🌞 Mais aussi déterminer...
+
+
+
+## Partie 3 : Poupée russe
+
+🌞 Récupérer le fichier meow
+
+
+
+🌞 Trouver le dossier dawa/
