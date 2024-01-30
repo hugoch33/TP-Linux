@@ -238,4 +238,5 @@ meow: Zip archive data, at least v2.0 to extract
 [hugo@localhost /]$ unzip meow.zip
 [hugo@localhost /]$ sudo mv meow meow.bz2
 [hugo@localhost /]$ bzip2 -d meow.bz2
+[hugo@localhost /]$ bzip2 -d meow.bz2
 ```
