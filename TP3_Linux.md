@@ -102,7 +102,7 @@ Jan 29 11:51:03 localhost sudo[1435]: pam_unix(sudo:session): session closed for
  
 ## 2. Modification du service
 
-🌞 Identifier le fichier de configuration du serveur SSH
+🌞 Identifier le fichier de configuration duserveur SSH
 
 ```bash
 [hugo@localhost /]$ sudo cat /etc/ssh/sshd_config
